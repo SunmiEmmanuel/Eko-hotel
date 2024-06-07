@@ -1,0 +1,30 @@
+# EKO HOTEL
+#### A WEBSITE FOR BOOKING HOTEL.
+#### BY SUNMISOLA EMMANUEL
+## TECHNOLOGIES USED
+
+* HTML
+* CSS
+* GIT
+
+## DESCRIPTION
+Eko Hotel and Suites was established in 1977. It was the Eko Holiday Inn. It is a popular international 5-star hotel. It is in Victoria Island, Lagos State.
+
+## SETUP/INSTALLATION REQUIREMENTS
+
+* CLONE THE PROJECT TO YOUR LOCAL LAPTOP
+* NAVIGATE TO THE ROOT DIRECTORY
+* OPEN INDEX.HTML FILE
+
+## KNOWN BUGS
+
+* MY HEADER ISN'T RESPONSIVE
+* MY IMAGES ARE TOO LARGE
+
+## LICENSE
+MIT
+
+## CONTACT INFORMATION
+
+PHONE NUMBER :09069477106
+EMAIL:enkheprogramming@gmail.com
